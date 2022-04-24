@@ -43,6 +43,11 @@ let str = `
 ┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
+┣ ඬ⃟🎖️ _${usedPrefix}toput@s_
+┣ ඬ⃟🎖️ _${usedPrefix}top10integrantes_
+┣ ඬ⃟🎖️ _${usedPrefix}top10grasa_
+┣ ඬ⃟🎖️ _${usedPrefix}top10pana_
+┣ ඬ⃟🎖️ _${usedPrefix}top10shiposter_
 ┣ ඬ⃟👻 _${usedPrefix}owner_
 ┣ ඬ⃟🕹 _${usedPrefix}math_
 ┣ ඬ⃟🎮 _${usedPrefix}ttt_
