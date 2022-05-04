@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /UwU|UWU/
+handler.customPrefix = /UwU|UWU|Uwu/
 handler.command = new RegExp
 module.exports = handler
