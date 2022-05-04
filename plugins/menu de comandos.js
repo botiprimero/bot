@@ -31,7 +31,6 @@ let menu =`
 ┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
-┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menuaudios_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
@@ -236,7 +235,6 @@ let menu =`
 ┣ ඬ⃟👾 _${usedPrefix}spamwa *numero|texto|cantidad*_
 ┣ ඬ⃟👾 _${usedPrefix}readqr *responde a un código QR*_
 ┣ ඬ⃟👾 _${usedPrefix}anime *random / waifu / husbu /neko*_
-┣ ඬ⃟👾 _${usedPrefix}subirestado *texto / responder video, imagen o gif*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<COMANDOS +18/>*
