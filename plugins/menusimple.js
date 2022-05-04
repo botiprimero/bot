@@ -24,7 +24,6 @@ let str = `
 ┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
-┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
 ┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menuaudios_
 ┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
@@ -190,7 +189,6 @@ let str = `
 ┣ ඬ⃟👾 _${usedPrefix}spamwa_
 ┣ ඬ⃟👾 _${usedPrefix}readqr_
 ┣ ඬ⃟👾 _${usedPrefix}anime_
-┣ ඬ⃟👾 _${usedPrefix}subirestado_
 ┣ ඬ⃟🔞 _${usedPrefix}labiblia_
 ┣ ඬ⃟🎤 _${usedPrefix}bass_
 ┣ ඬ⃟🎤 _${usedPrefix}deep_
