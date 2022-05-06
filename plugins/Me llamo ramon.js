@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /me llamo ramon|me llamo Ramon|Me llamo Ramon|Me llamo ramon|me llamo ramón|Me llamo Ramón/
+handler.customPrefix = /me llamo ramon|me llamo Ramon|me llamo Ramón|me llamo ramón|Me llamo Ramon|Me llamo ramon|Me llamo Ramón|Me llamo Ramón/
 handler.command = new RegExp
 module.exports = handler
