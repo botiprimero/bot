@@ -14,5 +14,5 @@ let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp4?text="+text)
 let json = await res.json()
 conn.sendFile(m.chat, json.result.url, 'error.mp4', `_The Shadow Brokers - Bot_`, m)}
 }
-handler.command = ['play.1', 'play.2']
+handler.command = ['play.1', 'desc2']
 module.exports = handler
